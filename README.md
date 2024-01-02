@@ -9,4 +9,6 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş basit bir fast f
 - Responsive Tasarım: Farklı ekran boyutlarına uyumlu görüntüleme.
 
 
+ ## Ekran Görüntüsü
+
 ![](FastFoodSite.gif)
